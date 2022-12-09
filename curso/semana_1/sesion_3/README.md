@@ -1,34 +1,25 @@
 Sesión 3
 -
 
-## Funciones
+## Inyección de dependencias
 
-- Definiciones y Llamadas
-- Parámetros y valor de retorno
-    - Etiquetas de argumentos y nombres de parámetros
-- Tipos de funcion
-    - Tipos como parámetros
-    - Tipos como retorno
-    - Parámetros In-Out
-
-## Closures
-
-- Definicion (Diferencias con funciones)
-    - Capturar valores
-- Como último argumento
-- `Escaping`
-- `Autoclosures`
+- Introducción
+- Inyección por constructor
+- Inyección por propiedad
+- Inyección por método
+- Beneficiós
+    - Extensibilidad
+    - Código mantenible
+    - Pruebas Unitarias
+- Contenedor de dependencias
 
 ## 💻 Actividades
-- [Funciones](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
-    
-- [Closures](https://leetcode.com/playground/)
+- [Inyección de dependencias](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/Functions.html
-- https://docs.swift.org/swift-book/LanguageGuide/Closures.html
+- https://cocoacasts.com/dependency-injection-in-swift
+- https://www.kodeco.com/14223279-dependency-injection-tutorial-for-ios-getting-started#toc-anchor-008
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

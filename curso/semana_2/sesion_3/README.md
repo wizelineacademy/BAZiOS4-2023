@@ -1,33 +1,20 @@
 Sesión 3
 -
 
-## Versionamiento de codigo
-- Instalación y configuración
-- Comandos locales
-- Comandos remotos
-- Git Workflow
-    - Pull Request
-
-## Xcode
-- Interface
-    - Navegacion de proyecto
-    - Interface builder
-    - Editor
-- Debugging
-    - Breakpoints
-    - Herarquia de vistas
-    - Diagrama de memoria
-    - Sobreescritura de ambiente
+## Concurrency
+- Introducción
+- Hilos y colas de operación
+- Grand central dispatch
+- OperationQueue
+- Async/Await, Tasks
 
 ## 💻 Actividades
-- [Git](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
-- [Xcode](https://leetcode.com/playground/)
+- [Concurrency](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://git-scm.com/doc
-- https://buildfire.com/xcode-tutorial/
+- https://betterprogramming.pub/concurrency-in-ios-and-swift-guide-50443ce5b0f5
+- https://www.kodeco.com/books/modern-concurrency-in-swift/v1.0
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

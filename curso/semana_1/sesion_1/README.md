@@ -1,38 +1,27 @@
 Sesión 1
 -
 
-## Básicos
+## Testing
 
-- Constantes y Variables
-- Nombrando Constantes y Variables
-- Comentarios
-- Seguridad de tipos e inferencia de tipos
-- Cadenas y caracteres (explicar tipos por valor)
-- Optionals
-- Enlazamiento opcional y Encadenado opcional
-- Opcionales desenvueltos implícitamente
+- Indroducción
+- Beneficios
+- Tipos de pruebas
 
-## Operadores
+## Pruebas Unitarias
 
-- Introduccion:
-    - Asignaciones
-    - Aritmética
-        - Remanente
-    - Asignaciones compuestas
-    - Comparaciones
-- Condicional ternario condition
-- Coalescencia nula (opcional)
+- Introducción
+- Configuración
+- Elementos de prueba
+    - Afirmaciones
+    - Desempeño
+    - Expectativas
 
 ## 💻 Actividades
-- [Básicos](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
-    
-- [Operadores](https://leetcode.com/playground/)
+- [Pruebas Unitarias](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
-- https://docs.swift.org/swift-book/LanguageGuide/BasicOperators.html
+- https://engineering.creativesociety.mx/introduccion-a-unit-testing-en-xcode-con-swift/
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

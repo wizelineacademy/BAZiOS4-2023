@@ -40,34 +40,34 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
 ## :bookmark_tabs: Sesiones
 
 ### Semana 1
-   1. [Básicos y Operadores](curso/semana_1/sesion_1)
-   2. [Tipos de colecciones y Bloques de control](curso/semana_1/sesion_2)
-   3. [Funciones y Closures](curso/semana_1/sesion_3)
+   1. [Testing](curso/semana_1/sesion_1)
+   2. [Test driven development](curso/semana_1/sesion_2)
+   3. [Dependency Injection](curso/semana_1/sesion_3)
 
 ### Semana 2 
-   1. [Definiciones y Propiedades](curso/semana_2/sesion_1)
-   2. [Herencia e Inicializadores](curso/semana_2/sesion_2)
-   3. [Git y Xcode](curso/semana_2/sesion_3)
+   1. [Protocol Oriented Programming](curso/semana_2/sesion_1)
+   2. [Generics](curso/semana_2/sesion_2)
+   3. [Concurrency](curso/semana_2/sesion_3)
 
 ### Semana 3
-   1. [Ciclo de vida de una app](curso/semana_3/sesion_1)
-   2. [UIKit y componentes básicos](curso/semana_3/sesion_2)
-   3. [Interface Builder y UITableViewController](curso/semana_3/sesion_3)
+   1. [MVVM](curso/semana_3/sesion_1)
+   2. [VIPER](curso/semana_3/sesion_2)
+   3. [Clean Swift](curso/semana_3/sesion_3)
 
 ### Semana 4
-   1. [Protocolos](hcurso/semana_4/sesion_1)
-   2. [Patrones de diseño](curso/semana_4/sesion_2)
-   3. [MVC](curso/semana_4/sesion_3)
+   1. [UserDefaults](hcurso/semana_4/sesion_1)
+   2. [KeyChain](curso/semana_4/sesion_2)
+   3. [Persistance](curso/semana_4/sesion_3)
 
 ### Semana 5 - Delegados, Protocolos y Extensiones
-   1. [URLSession y Manejo de errores](curso/semana_5/sesion_1)
-   2. [Pruebas unitarias](curso/semana_5/sesion_2)
-   3. [Principios SOLID](curso/semana_5/sesion_3)
+   1. [Core Location](curso/semana_5/sesion_1)
+   2. [MapKit](curso/semana_5/sesion_2)
+   3. [AV Foundation](curso/semana_5/sesion_3)
 
 ### Semana 6
-   1. [ARC](curso/semana_6/sesion_1)
-   2. [Notification Center](curso/semana_6/sesion_2)
-   3. [Control de Accesos](curso/semana_6/sesion_3)
+   1. [Creational Patterns](curso/semana_6/sesion_1)
+   2. [Estructural Patterns](curso/semana_6/sesion_2)
+   3. [Behavioral Patterns](curso/semana_6/sesion_3)
 
 ## 📺 Grabaciones sesiones y Presentaciones
 
@@ -80,7 +80,7 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-[Aquí](https://github.com/wizelineacademy/baz-ios-project-c3-2022) encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Projecto final.
 
 Para la revisión de tu Capstone Project se te asignó un mentor quien te dará retroalimentación por medio de comentarios en tu repositorio. Si tienes dudas o quieres revisar más a fondo, puedes agendar una mentoría 1:1.
 

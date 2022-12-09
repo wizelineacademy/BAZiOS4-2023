@@ -1,35 +1,20 @@
 Sesión 1
 -
 
-## Definiciones
+## Protocol Oriented Programming
 
-- Enumeraciones
-    - Valores associados
-    - Valores brutos
-    - Enumeraciones Recursivas
-- Estructuras y Clases
-- Tipos anidados
-
-## Propiedades
-
-- Almacenadas
-- Almacenadas Perezosas (Lazy) 
-- Computadas
-- Getters y Setters
-- Observadores
+- OOP vs POP
+- Herencia de protocolos
+- Composición de protocolos
+- Extensión de protocolos
 
 ## 💻 Actividades
-- [Enumeraciones](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
-- [Propiedades](https://leetcode.com/playground/)
+- [Protocol Oriented Programming](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
-- https://docs.swift.org/swift-book/LanguageGuide/ClassesAndStructures.html
-- https://docs.swift.org/swift-book/LanguageGuide/Properties.html
-- https://docs.swift.org/swift-book/LanguageGuide/Methods.html
-- https://docs.swift.org/swift-book/LanguageGuide/Subscripts.html
+- https://www.careers360.com/articles/difference-between-oop-and-pop
+- https://www.pluralsight.com/guides/protocol-oriented-programming-in-swift
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

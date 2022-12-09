@@ -1,31 +1,17 @@
 Sesión 2
 -
 
-## Herencia
-- Clase base
-- Sub-clase
-- Sobre escritura
-- Conversion de tipos (Casting)
-
-## Inicializadores
-- Valores iniciales para propiedades almacenadas
-- Inicializadores predeterminados
-- Inicializadores Designados y Convenientes
-    - Delegacion para clases
-- Inicializadores fallidos
-- Inicializadores requeridos
-- Desinicialización
+## Genéricos
+- Funcinones genéricos
+- Tipos genéricos
+- Restricción de genéricos
 
 ## 💻 Actividades
-- [Herencia](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
-- [Inicializadores](https://leetcode.com/playground/)
+- [Genéricos](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/Inheritance.html
-- https://docs.swift.org/swift-book/LanguageGuide/Initialization.html
-- https://docs.swift.org/swift-book/LanguageGuide/Deinitialization.html
+- https://medium.com/swift-india/power-of-swift-generics-part-1-ab722a030dc2
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
