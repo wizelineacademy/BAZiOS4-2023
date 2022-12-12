@@ -1,18 +1,21 @@
-Sesión 1
+Sesión 2
 -
 
-## Notification Center
-- Introducción
-- Envío de notificaciones
-- Observadores
-- Envío de información
+## Patron de diseño: Estructurales
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
 
 ## 💻 Actividades
-- [Topic](https://leetcode.com/playground/)
+- [Estructurales](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- [Notification Center](https://developer.apple.com/documentation/foundation/notificationcenter)
+- https://refactoring.guru/design-patterns/structural-patterns
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

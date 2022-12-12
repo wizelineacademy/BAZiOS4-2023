@@ -1,19 +1,19 @@
 Sesión 1
 -
 
-## ARC
-
-- Introducción
-- Manejo de memoria
-- Strong Reference Cycles
-- Strong Reference Cycles en Closures
+## Patron de diseño: Creacionales
+- Factory Method
+- Abstract Factory
+- Builder
+- Prototype
+- Singleton
 
 ## 💻 Actividades
-- [ARC](https://leetcode.com/playground/)
+- [Creacionales](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://alexandrefreire.com/arc-swift/que-es-arc-swift/
+- https://refactoring.guru/design-patterns/creational-patterns
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

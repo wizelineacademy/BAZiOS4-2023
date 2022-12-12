@@ -1,19 +1,18 @@
 Sesión 2
 -
 
-## Patrones de diseño
-- Introducción
-- Clasificacion de patrones
-    - Creacionales
-    - Estructurales
-    - Comportamiento
+## Keychain Service
+- Difference with User Defaults
+- Security Framework
+- Build Persistance API
 
 ## 💻 Actividades
-- [Patrones de diseño](https://leetcode.com/playground/)
+- [Keychain](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://refactoring.guru/es/design-patterns/swift
+- https://bruno-lorenzop.medium.com/keychain-services-in-swift-ecb9d6d5c6cd
+- https://www.advancedswift.com/secure-private-data-keychain-swift/
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

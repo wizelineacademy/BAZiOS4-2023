@@ -1,22 +1,19 @@
-Sesión 2
+Sesión 1
 -
 
-## URLSession
-- Introduccion
-- Consumo de servicios REST
+## Core Location
+- Manejo de permisos
+- Actualización de ubicación
+- Notificaciones y visitas
 
-## Manejo de errores
-- Introducción
-- Representaion y lanzar errores
-- Afirmaciones y condiciones previas
-- Aplicar condiciones previas
 
 ## 💻 Actividades
-- [Manejo de errores](https://leetcode.com/playground/)
+- [Core Location](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/ErrorHandling.html
+- https://developer.apple.com/documentation/corelocation
+- https://www.kodeco.com/5247-core-location-tutorial-for-ios-tracking-visited-locations
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

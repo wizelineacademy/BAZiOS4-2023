@@ -1,20 +1,17 @@
 Sesión 2
 -
 
-## Pruebas unitarias
-- Introducción
-- Configuración
-- Elementos de prueba
-    - Afirmaciones
-    - Desempeño
-    - Expectativas
+## MapKit
+- MapView
+- Anotaciones
+- Acciones y accesorios
 
 ## 💻 Actividades
-- [Pruebas unitarias](https://leetcode.com/playground/)
+- [MapKit](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://engineering.creativesociety.mx/introduccion-a-unit-testing-en-xcode-con-swift/
+- https://www.kodeco.com/7738344-mapkit-tutorial-getting-started
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

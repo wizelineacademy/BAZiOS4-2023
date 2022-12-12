@@ -1,25 +1,18 @@
 Sesión 3
 -
 
-## Interface Builder
+## Arquitectur: Clean Swift
+- VIP vs VIPER
+- VIP
 
-- NIBs
-- Storyboards
-- Ventajas y desventajas
-- UI puramente con código
-
-## UITableViewController
-- Sublcase
-- Manejo de celdas
-- Manejar interacción de usuario
 
 ## 💻 Actividades
-- [Topic](https://leetcode.com/playground/)
+- [VIP](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-
-- [UITableViewController](https://www.appypie.com/table-view-controller-uitableviewcontroller-how-to)
+- https://clean-swift.com/clean-swift-ios-architecture/
+- https://www.kodeco.com/29416318-getting-started-with-the-vip-clean-architecture-pattern
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

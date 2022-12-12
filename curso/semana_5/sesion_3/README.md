@@ -1,19 +1,18 @@
 Sesión 3
 -
 
-## Principios SOLID
- - Responsabilidad única
- - Abierto Cerrado
- - Sustitucion de Liskov
- - Segregación de interfaces
- - Inversión de dependencias
+## AV Foundation
+ - Reproducción
+ - Captura
+ - Edición
  
 ## 💻 Actividades
-- [SOLID](https://leetcode.com/playground/)
+- [AV Foundation](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://medium.com/@nishant.kumbhare4/solid-principles-in-swift-73b505d3c63f
+- https://www.kodeco.com/10857372-how-to-play-record-and-merge-videos-in-ios-and-swift
+- https://www.kodeco.com/6236502-avfoundation-tutorial-adding-overlays-and-animations-to-videos
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)

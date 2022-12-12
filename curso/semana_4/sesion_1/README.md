@@ -1,28 +1,19 @@
 Sesión 1
 -
 
-## Protocolos
-- Definición
-- Sintaxis
-- Requerimientos
-    - Propiedades
-    - Métodos
-    - Inicializadores
-- Herencia de protocolos
-- Requerimiento de herencia
-- Composición de protocolos
-- Buenas prácticas
-- Delegados
-    - Patrón de diseño y sus usos
+## User Defaults
+- Persistencia de datos
+- Framework
+- Guardando `NSObjects` y `Any`
+- Respondiendo a eventos (Notification Center)
 
 ## 💻 Actividades
-- [Protocolos](https://leetcode.com/playground/)
+- [User Defaults](https://leetcode.com/playground/)
     - Aplica lo aprendido TODO:
 
 ## 📚 Referencias
-- https://docs.swift.org/swift-book/LanguageGuide/Protocols.html
-- https://www.swiftbeta.com/protocolos-en-swift
-- https://applecoding.com/cursos/swift-leccion-8-protocolos
+- https://developer.apple.com/documentation/foundation/userdefaults
+- https://www.vadimbulavin.com/advanced-guide-to-userdefaults-in-swift/
 
 ## 📺 Enlace a la presentación 
 - [Grabaciones y Presentaciones](/Grabaciones_y_Presentaciones.md)
