@@ -14,8 +14,14 @@ Sesión 3
 - Contenedor de dependencias
 
 ## 💻 Actividades
-- [Inyección de dependencias](https://leetcode.com/playground/)
-    - Aplica lo aprendido TODO:
+- [Inyección de dependencias](Activity.playground)
+    - Inyecta un servicio de ImageProvider al controlador
+    - Inyecta el servicio del controlador a la subclase de UIImageView
+
+- [Inicializadores y memoria](Activity.playground)
+    - Elimina las posibles referencias cíclicas
+    - Crea un constructor que reciba un arreglo de ImageProvider’s
+    - Intercambia el servicio ImageProvider de forma aleatoria cada vez que se carga una imagen.
 
 ## 📚 Referencias
 - https://cocoacasts.com/dependency-injection-in-swift
