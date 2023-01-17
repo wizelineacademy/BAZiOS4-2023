@@ -41,7 +41,7 @@ extension RandomImageController {
                                            target: self,
                                            action: #selector(reloadImage))
         view.addSubview(button)
-        button.center = .init(x: view.frame.width/2, y: view.frame.height - 50)
+        button.center = .init(x: view.frame.width / 2, y: view.frame.height - 50)
     }
     
     private func insertImageView() -> LoadableImageView {

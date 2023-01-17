@@ -7,14 +7,14 @@ class Goodbye {
 // Reference cycle
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
 
     class Apartment: Goodbye {
         var tenant: Person?
         func rent(to person: Person) {
             self.tenant = person
-            person.aparment = self
+            person.apartment = self
         }
     }
 
@@ -28,14 +28,14 @@ do {
 // weak reference
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
 
     class Apartment: Goodbye {
         weak var tenant: Person?
         func rent(to person: Person) {
             self.tenant = person
-            person.aparment = self
+            person.apartment = self
         }
     }
 
@@ -49,7 +49,7 @@ do {
 // unowned reference
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
 
     class Apartment: Goodbye {
@@ -57,7 +57,7 @@ do {
         init(tenant: Person) {
             self.tenant = tenant
             super.init()
-            tenant.aparment = self
+            tenant.apartment = self
         }
     }
 
@@ -70,7 +70,7 @@ do {
 // Reference cycle on closure
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
     
     class Apartment: Goodbye {
@@ -87,7 +87,7 @@ do {
     
     loft.rent = { [person = john] apartment in
         apartment.tenant = person
-        person.aparment = apartment
+        person.apartment = apartment
     }
     print("Departamento rentado")
 }
@@ -95,7 +95,7 @@ do {
 // weak reference on closure
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
     
     class Apartment: Goodbye {
@@ -112,7 +112,7 @@ do {
     
     loft.rent = { [weak person = john] apartment in
         apartment.tenant = person
-        person?.aparment = apartment
+        person?.apartment = apartment
     }
     print("Departamento rentado")
 }
@@ -120,7 +120,7 @@ do {
 // unowned reference on closure
 do {
     class Person: Goodbye {
-        var aparment: Apartment?
+        var apartment: Apartment?
     }
     
     class Apartment: Goodbye {
@@ -137,7 +137,7 @@ do {
     
     loft.rent = { [unowned person = john] apartment in
         apartment.tenant = person
-        person.aparment = apartment
+        person.apartment = apartment
     }
     print("Departamento rentado")
 }

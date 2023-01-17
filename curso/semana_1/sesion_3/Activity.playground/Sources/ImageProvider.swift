@@ -9,7 +9,7 @@ public protocol ImageProvider: AnyObject {
     func loadImage(withSize size: CGSize)
 }
 
-public class RemoteImageProvider: ImageProvider {
+public class RemoteImageProvider {
     
     public var delegate: ImageProviderDelegate?
     
@@ -25,7 +25,7 @@ public class RemoteImageProvider: ImageProvider {
     }
 }
 
-public class SFImageProvider: ImageProvider {
+public class SFImageProvider {
     
     public var delegate: ImageProviderDelegate?
     
@@ -46,7 +46,7 @@ public class SFImageProvider: ImageProvider {
     }
 }
 
-public class AvatarImageProvider: ImageProvider {
+public class AvatarImageProvider {
     
     public var delegate: ImageProviderDelegate?
     
