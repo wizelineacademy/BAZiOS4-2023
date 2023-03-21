@@ -22,6 +22,13 @@ class ViewController: UIViewController {
         // configMonitoringVisits()
     }
     
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        if [.authorized, .authorizedAlways, .authorizedWhenInUse].contains(manager.authorizationStatus){
+            validateFullAccuracy()
+        }
+    }
+    
     func configLocation(){
         manager.delegate = self
         validatePermision()
@@ -63,6 +70,21 @@ class ViewController: UIViewController {
         }
     }
     
+    func validateFullAccuracy(){
+        switch manager.accuracyAuthorization{
+        case .fullAccuracy:
+            print("Full accuracy active")
+            break
+        case .reducedAccuracy:
+            manager.requestTemporaryFullAccuracyAuthorization(withPurposeKey: "PrimerEjemplo") { error in
+                print(error?.localizedDescription ?? "")
+            }
+            break
+        @unknown default:
+            print("No determinado")
+        }
+    }
+    
     /// Este metodo solicita envia al usuario a cambiar los permisos de esta aplicacion
     func showSettingsPermision(){
         guard let url = URL(string: UIApplication.openSettingsURLString),
@@ -97,6 +119,7 @@ extension ViewController: CLLocationManagerDelegate {
         guard let last = locations.last else { return }
         print("Coordenadas: \(last.coordinate.latitude), \(last.coordinate.longitude)")
         lblText.text = "\(last.coordinate.longitude) - \(last.coordinate.latitude)"
+        print(last.description)
     }
     
     func locationManager(_ manager: CLLocationManager, didFailWithError error: Error) {
