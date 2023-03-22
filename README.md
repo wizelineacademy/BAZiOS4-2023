@@ -6,7 +6,8 @@ Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenami
 [Liga Acceso Telegram grupal](https://t.me/+ce1FaKIjcr81MGI5)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
-<img width="482" alt="Calendario iOS Bloque 4" src="https://user-images.githubusercontent.com/94467952/226651014-12d71e2d-5a15-43ff-9ff3-5d0eeaea3392.png">
+<img width="476" alt="Screen Shot 2023-03-22 at 14 35 02" src="https://user-images.githubusercontent.com/114529977/227031630-6c263c8a-d41d-493a-a136-f05b78a144ff.png">
+
 
 
 # II. Información general del entrenamiento
