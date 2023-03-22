@@ -3,7 +3,7 @@ Sesión 1
 
 ## Testing
 
-- Indroducción
+- Introducción
 - Beneficios
 - Tipos de pruebas
 
