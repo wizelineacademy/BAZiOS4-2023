@@ -8,3 +8,44 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Jueves 23 Mar]()
 - [Viernes 24 Mar - Dependency Injection](https://drive.google.com/file/d/1dU4zhfGfJ65JJ6nvfXeEv4RNXFWWBWCF/view?usp=sharing)
 - 📺 [Grabación Jueves 24 Mar]()
+
+# Semana 2
+- [Miércoles 29 Mar - Protocol Oriented Programming]()
+- 📺 [Grabación Miércoles 29 Mar]()
+- [Jueves 30 Mar - Generics]()
+- 📺 [Grabación Jueves 30 Mar]()
+- [Viernes 31 Mar - Concurrency]()
+- 📺 [Grabación Jueves 31 Mar]()
+
+# Semana 3
+- [Miércoles 12 Abr - MVVM]()
+- 📺 [Grabación Miércoles 12 Abr]()
+- [Jueves 13 Abr - VIPER]()
+- 📺 [Grabación Jueves 13 Abr]()
+- [Viernes 14 Abr - Clean Swift]()
+- 📺 [Grabación Jueves 14 Abr]()
+
+# Semana 4
+- [Miércoles 19 Mar - ]()
+- 📺 [Grabación Miércoles 29 Mar]()
+- [Jueves 20 Mar - ]()
+- 📺 [Grabación Jueves 30 Mar]()
+- [Viernes 21 Mar - ]()
+- 📺 [Grabación Jueves 31 Mar]()
+
+# Semana 5
+- [Miércoles 29 Abr - ]()
+- 📺 [Grabación Miércoles 29 Abr]()
+- [Jueves 30 Abr - ]()
+- 📺 [Grabación Jueves 30 Abr]()
+- [Viernes 31 Mar - ]()
+- 📺 [Grabación Jueves 31 Abr]()
+
+# Semana 6
+- [Miércoles 3 May - ]()
+- 📺 [Grabación Miércoles 3 May]()
+- [Jueves 4 May - ]()
+- 📺 [Grabación Jueves 4 May]()
+- [Viernes 5 May - ]()
+- 📺 [Grabación Jueves 5 May]()
+
