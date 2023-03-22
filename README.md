@@ -81,14 +81,24 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Projecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Proyecto final.
 
 
 # V. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
-Selecciona la liga de abajo de cualquiera de los mentores, te abrirá su calendario con la disponibilidad por día y horarios. Elige el que mejor se acomode a tu necesidad.
+Selecciona la liga de abajo tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy4h6Xh8) al final de tu mentoría.
+| Mentor               | Mentee                          |  Liga para agendar mentoria                |
+|----------------------|---------------------------------|--------------------------------------------|
+| `Juan Carlos Aguirre Zaragoza`       | - JOEL ERNESTO HERNANDEZ GALVAN   <br/> - KEVIN GIOVANI SOLANO RODRIGUEZ   | [Liga](https://calendly.com/karlos-aguirre/baz-mentoria-1-1) |
+| `Esteban Garibay`      | - JUAN MARTELL NAVARRETE  <br/> - MAXIMILIANO LOPEZ ORTIZ  | [Liga](https://calendly.com/esteban-garibay/baz-mentorias-1-1)
+| `Juan Dorado Torres`       | - DANIEL ALBERTO VAZQUEZ RODRIGUEZ <br/> - GRECIA ITZEL ESCARCEGA MALDONADO | [Liga](https://calendly.com/juan-doraado/baz-mentoria-1-1)
+| `Arturo Díaz`       | - JUAN MANUEL GARCIA CARMONA <br/> -  MANUEL SANCHEZ PEREZ  | [Liga]() |
+| `Michel Torres Alonso`      | -  NERI GIOVANNI MORENO ALDAY <br/> - OCTAVIO IVAN LABASTIDA LUNA | [Liga]() |
+| `Luis Vazquez Escobar`      |  - JUAN CARLOS GARCIA NAVA <br/> - BENJAMIN VELAZQUEZ VALTIERRA  | [Liga](https://calendly.com/luis-vazquez-e/baz-mentoria-1-1)
+| `Benny Reyes Sosa`  | - CRISTIAN EDUARDO VILLEGAS ALVAREZ <br/> - SERGIO DEL OLMO AGUILAR | [Liga](https://calendly.com/benny-reyes/baz-mentoria-1-1)
+| `Alejandro Martinez Barragan`    | - IVAN TECPANECATL MARTINEZ   | [Liga](https://calendly.com/alejandro-mb/mentorias-baz) |
 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
