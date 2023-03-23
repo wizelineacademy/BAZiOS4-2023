@@ -94,7 +94,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy
 | `Juan Carlos Aguirre Zaragoza`       | - JOEL ERNESTO HERNANDEZ GALVAN   <br/> - KEVIN GIOVANI SOLANO RODRIGUEZ   | [Liga](https://calendly.com/karlos-aguirre/baz-mentoria-1-1) |
 | `Esteban Garibay`      | - JUAN MARTELL NAVARRETE  <br/> - MAXIMILIANO LOPEZ ORTIZ  | [Liga](https://calendly.com/esteban-garibay/baz-mentorias-1-1)
 | `Juan Dorado Torres`       | - DANIEL ALBERTO VAZQUEZ RODRIGUEZ <br/> - GRECIA ITZEL ESCARCEGA MALDONADO | [Liga](https://calendly.com/juan-doraado/baz-mentoria-1-1)
-| `Arturo Díaz`       | - JUAN MANUEL GARCIA CARMONA <br/> -  MANUEL SANCHEZ PEREZ  | [Liga]() |
+| `Arturo Díaz`       | - JUAN MANUEL GARCIA CARMONA <br/> -  MANUEL SANCHEZ PEREZ  | [Liga](https://calendly.com/arturo-diaz-wize/baz-mentoria-1-1) |
 | `Michel Torres Alonso`      | -  NERI GIOVANNI MORENO ALDAY <br/> - OCTAVIO IVAN LABASTIDA LUNA | [Liga]() |
 | `Luis Vazquez Escobar`      |  - JUAN CARLOS GARCIA NAVA <br/> - BENJAMIN VELAZQUEZ VALTIERRA  | [Liga](https://calendly.com/luis-vazquez-e/baz-mentoria-1-1)
 | `Benny Reyes Sosa`  | - CRISTIAN EDUARDO VILLEGAS ALVAREZ <br/> - SERGIO DEL OLMO AGUILAR | [Liga](https://calendly.com/benny-reyes/baz-mentoria-1-1)
