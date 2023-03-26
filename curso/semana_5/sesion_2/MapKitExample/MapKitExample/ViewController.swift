@@ -13,10 +13,15 @@ class ViewController: UIViewController {
     
     let manager = CLLocationManager()
     let goldenGateBridge = CLLocationCoordinate2D(latitude: 37.82055575885935, longitude: -122.4779117772426)
+    let museum = CLLocationCoordinate2D(latitude: 37.83721054181996, longitude: -122.47647566284309)
+//    let depa = CLLocationCoordinate2D(latitude: 25.648099221806497, longitude: -100.29917553062695)
+    let wizeline = CLLocationCoordinate2D(latitude: 19.427498371104658, longitude: -99.1652054119615)
+    
+    private var myAnnotations: [MKAnnotation]?
     
     lazy var mapView:MKMapView = {
         let map = MKMapView()
-        map.preferredConfiguration = ViewController.getImageConfiguration()
+        map.preferredConfiguration = ViewController.getStandardConfiguration()
         map.showsCompass = true
         map.showsScale = true
         map.showsUserLocation = true
@@ -27,15 +32,19 @@ class ViewController: UIViewController {
     // MARK: Life Cycle
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .red
         setUpView()
+        registerCustomAnnotations()
         configLocation()
+        addAnnotations()
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
+        // Center on coordinate
 //        mapView.setCenter(goldenGateBridge, animated: true)
-        let region = MKCoordinateRegion(center: goldenGateBridge, latitudinalMeters: 750, longitudinalMeters: 1500)
+        
+        // Center on region
+        let region = MKCoordinateRegion(center: wizeline, latitudinalMeters: 1500, longitudinalMeters: 3000)
         mapView.setRegion(region, animated: true)
     }
     
@@ -75,6 +84,23 @@ class ViewController: UIViewController {
         return config
     }
     
+    // MARK: - MapKit annotations
+    func addAnnotations(){
+        /// Anotacion simple
+        let annotation = MKPointAnnotation()
+        annotation.coordinate = wizeline
+        mapView.addAnnotation(annotation)
+        /// Anotacion customizada
+        let custom = CustomAnnotation(coordinate: wizeline)
+        myAnnotations = [custom]
+        mapView.addAnnotation(custom)
+    }
+    
+    func registerCustomAnnotations(){
+        mapView.delegate = self
+//        mapView.register(CustomAnnotationView.self, forAnnotationViewWithReuseIdentifier: NSStringFromClass(CustomAnnotation.self))
+        mapView.register(WizelineAnnotationView.self, forAnnotationViewWithReuseIdentifier: NSStringFromClass(CustomAnnotation.self))
+    }
 
     // MARK: - CoreLocation
     
@@ -89,6 +115,7 @@ class ViewController: UIViewController {
         switch manager.authorizationStatus{
         case .authorized:
             print("Hasta iOS 8.0")
+            mapView.showsUserLocation = true
             manager.startUpdatingLocation()
             break
         case .authorizedAlways:
@@ -140,6 +167,26 @@ class ViewController: UIViewController {
 
 // MARK: - MKMapViewDelegate
 extension ViewController: MKMapViewDelegate {
+    
+    func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {
+        guard !annotation.isKind(of: MKUserLocation.self) else {
+            /// Evitar customizar la anotacion del usuario
+            return nil
+        }
+        if annotation.isKind(of: CustomAnnotation.self){
+            let identifier:String = NSStringFromClass(CustomAnnotation.self)
+            if let custom = mapView.dequeueReusableAnnotationView(withIdentifier: identifier, for: annotation) as? WizelineAnnotationView{
+                return custom
+            }
+        }
+        return nil
+    }
+    
+    func mapView(_ mapView: MKMapView, regionDidChangeAnimated animated: Bool) {
+        /// Se recomienta ocultar las vistas customizables a partir de 10,000 width
+        let zoomWidth = mapView.visibleMapRect.size.width
+        print(zoomWidth)
+    }
     
 }
 
