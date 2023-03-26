@@ -100,6 +100,7 @@ class ViewController: UIViewController {
         mapView.delegate = self
 //        mapView.register(CustomAnnotationView.self, forAnnotationViewWithReuseIdentifier: NSStringFromClass(CustomAnnotation.self))
         mapView.register(WizelineAnnotationView.self, forAnnotationViewWithReuseIdentifier: NSStringFromClass(CustomAnnotation.self))
+        mapView.register(WizelineAnnotationView.self, forAnnotationViewWithReuseIdentifier: NSStringFromClass(CustomAnnotation.self))
     }
 
     // MARK: - CoreLocation
@@ -175,9 +176,21 @@ extension ViewController: MKMapViewDelegate {
         }
         if annotation.isKind(of: CustomAnnotation.self){
             let identifier:String = NSStringFromClass(CustomAnnotation.self)
-            if let custom = mapView.dequeueReusableAnnotationView(withIdentifier: identifier, for: annotation) as? WizelineAnnotationView{
-                return custom
+            
+            
+            if let annotationView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier, for: annotation) as? WizelineAnnotationView{
+                
+                annotationView.canShowCallout = true
+                annotationView.rightCalloutAccessoryView = UIButton(type: .detailDisclosure, primaryAction: UIAction(title: "Botón derecho", handler: { _ in
+                    print("Dio click en el boton derecho")
+                }))
+                
+                return annotationView
             }
+            
+            
+            
+            
         }
         return nil
     }

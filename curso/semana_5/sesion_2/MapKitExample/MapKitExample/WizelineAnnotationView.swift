@@ -34,8 +34,8 @@ class WizelineAnnotationView: MKAnnotationView{
         stack.spacing = 5
         stack.backgroundColor = .systemGray5
         stack.layer.cornerRadius = 5
-        stack.layer.borderWidth = 1
-        stack.layer.borderColor = UIColor.darkGray.cgColor
+//        stack.layer.borderWidth = 1
+//        stack.layer.borderColor = UIColor.darkGray.cgColor
         stack.clipsToBounds = true
         return stack
     }()

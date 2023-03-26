@@ -22,7 +22,7 @@
 
 /* Begin PBXFileReference section */
 		02D5F71929D01E8F009C69A0 /* CustomAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomAnnotation.swift; sourceTree = "<group>"; };
-		02D5F71A29D01E8F009C69A0 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		02D5F71A29D01E8F009C69A0 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; wrapsLines = 1; };
 		02D5F71B29D01E8F009C69A0 /* CustomAnnotationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomAnnotationView.swift; sourceTree = "<group>"; };
 		02D5F71C29D01E8F009C69A0 /* MapExample.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapExample.swift; sourceTree = "<group>"; };
 		02D5F72129D037C1009C69A0 /* Respaldo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Respaldo.swift; sourceTree = "<group>"; };
