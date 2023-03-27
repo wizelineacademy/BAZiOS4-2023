@@ -99,7 +99,7 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy
 | `Luis Vazquez Escobar`      |  - JUAN CARLOS GARCIA NAVA <br/> - BENJAMIN VELAZQUEZ VALTIERRA  | [Liga](https://calendly.com/luis-vazquez-e/baz-mentoria-1-1)
 | `Benny Reyes Sosa`  | - CRISTIAN EDUARDO VILLEGAS ALVAREZ <br/> - SERGIO DEL OLMO AGUILAR | [Liga](https://calendly.com/benny-reyes/baz-mentoria-1-1)
 | `Alejandro Martinez Barragan`    | - IVAN TECPANECATL MARTINEZ   | [Liga](https://calendly.com/alejandro-mb/mentorias-baz) |
-
+                                     - JOEL ERNESTO HERNANDEZ GALVAN 
 
 # VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
 
