@@ -91,7 +91,7 @@ Selecciona la liga de abajo tu mentor asignado, te abrirá su calendario con la 
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy4h6Xh8) al final de tu mentoría.
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
-| `Juan Carlos Aguirre Zaragoza`       | - JOEL ERNESTO HERNANDEZ GALVAN   <br/> - KEVIN GIOVANI SOLANO RODRIGUEZ   | [Liga](https://calendly.com/karlos-aguirre/baz-mentoria-1-1) |
+| `Juan Carlos Aguirre Zaragoza`       | KEVIN GIOVANI SOLANO RODRIGUEZ   | [Liga](https://calendly.com/karlos-aguirre/baz-mentoria-1-1) |
 | `Esteban Garibay`      | - RICARDO OMAR MARTÍNEZ NAVA  <br/> - MAXIMILIANO LOPEZ ORTIZ  | [Liga](https://calendly.com/esteban-garibay/baz-mentorias-1-1)
 | `Juan Dorado Torres`       | - DANIEL ALBERTO VAZQUEZ RODRIGUEZ <br/> - GRECIA ITZEL ESCARCEGA MALDONADO | [Liga](https://calendly.com/juan-doraado/baz-mentoria-1-1)
 | `Arturo Díaz`       | - JUAN MANUEL GARCIA CARMONA <br/> -  MANUEL SANCHEZ PEREZ  | [Liga](https://calendly.com/arturo-diaz-wize/baz-mentoria-1-1) |
