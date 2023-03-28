@@ -81,7 +81,7 @@ Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforz
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
 - Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
 
-[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Proyecto final.
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Proyecto final. Recuerda registrar tus envíos en el siguiente [formulario](https://forms.gle/6BiUgkYNUFHUaU3g6)
 
 
 # V. Agenda tu mentoria 📆
