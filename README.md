@@ -6,8 +6,8 @@ Bienvenido a tu capacitación de Mobile IOS que consta de 6 semanas de entrenami
 [Liga Acceso Telegram grupal](https://t.me/+ce1FaKIjcr81MGI5)
 Importante unirse ya que toda la comunicación del curso se lleva por este medio.
 
+Calendario iOS Bloque 4<br>
 <img width="476" alt="Screen Shot 2023-03-22 at 14 35 02" src="https://user-images.githubusercontent.com/114529977/227031630-6c263c8a-d41d-493a-a136-f05b78a144ff.png">
-
 
 
 # II. Información general del entrenamiento
@@ -24,10 +24,10 @@ El objetivo de esta etapa es brindarte la oportunidad de actualizar tus conocimi
 
 **Mentorías Grupales**
 - Son sesiones de mentoría en sitio que se llevan a cabo después de las sesiones en vivo para reforzar conocimientos y aclarar dudas. La duración de estas mentorías es de 2 horas.
-- Lunes y martes: 4pm en oficinas de Wizeline
+- Miércoles y Jueves: 4pm en oficinas de Wizeline
 
 **Mentorías On Demand**
-- Son sesiones en donde podrás interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
+- Son sesiones en donde puedes interactuar con ingenieros de Wizeline para resolver dudas que tengas sobre los temas cubiertos en las sesiones en vivo, el material de autoestudio o sobre el proyecto final. Las mentorías tienen una duración de 1 hora, son en línea y son bajo demanda. Más abajo están las instrucciones y ligas para solicitar una sesión.
 
 **Ruta de Autoaprendizaje**
 - Es una recopilación de recursos (artículos, videos, audios) que ponemos a tu disposición para que complementes tu aprendizaje.
@@ -70,24 +70,24 @@ Los temas están divididos en 6 semanas, 3 sesiones por semana.
    2. [Estructural Patterns](curso/semana_6/sesion_2)
    3. [Behavioral Patterns](curso/semana_6/sesion_3)
 
-## 📺 Grabaciones sesiones y Presentaciones
+## IV 📺 Grabaciones sesiones y Presentaciones
 
 En [esta liga](/Grabaciones_y_Presentaciones.md) encontrarás todas las grabaciones y presentaciones del curso.
 
 
-# IV. Proyecto Final (Capstone Project)
+# V. Proyecto Final (Capstone Project)
 ✴️ **Objetivo**
-Para aprobar el curso tienes que desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
+Para aprobar el curso debes desarrollar un proyecto final en el cual reforzarás y aplicarás los conocimientos que vas adquiriendo.
 - Para poder presentar tu proyecto final, debes contar con un mínimo de **6 mentorías on-demand**
-- Se tomará en cuenta tu participación en sesiones presenciales y virtuales. 
+- Tu participación en sesiones presenciales y virtuales, se tomará en cuenta.
 
-[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Proyecto final. Recuerda registrar tus envíos en el siguiente [formulario](https://forms.gle/6BiUgkYNUFHUaU3g6)
+[Aquí](https://github.com/wizelineacademy/baz-ios-project-c4-2023) encontrarás las instrucciones para completar tu Proyecto final. Recuerda registrar cada uno de tus entregables en este [formulario](https://forms.gle/6BiUgkYNUFHUaU3g6)
 
 
-# V. Agenda tu mentoria 📆
+# VI. Agenda tu mentoria 📆
 Si deseas tener una mentoria personalizada en línea con alguno de los mentores, adicional a las de tu proyecto final, sigue estas instrucciones:
 
-Selecciona la liga de abajo tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios
+Selecciona la liga de tu mentor asignado, te abrirá su calendario con la disponibilidad por día y horarios
 Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy4h6Xh8) al final de tu mentoría.
 | Mentor               | Mentee                          |  Liga para agendar mentoria                |
 |----------------------|---------------------------------|--------------------------------------------|
@@ -99,13 +99,6 @@ Recuerda llenar el [Formato de Retroalimentación](https://forms.gle/vrGE16LpuRy
 | `Benny Reyes Sosa`  | - CRISTIAN EDUARDO VILLEGAS ALVAREZ <br/> - SERGIO DEL OLMO AGUILAR | [Liga](https://calendly.com/benny-reyes/baz-mentoria-1-1)
 | `Alejandro Martinez Barragan`    | - IVAN TECPANECATL MARTINEZ  <br/> - JOEL ERNESTO HERNANDEZ GALVAN | [Liga](https://calendly.com/alejandro-mb/mentorias-baz) |
                                      
-
-# VI. PROYECTO BAZ SUPERAPP / BANCA DIGITAL (Asignado por Líder de Gremio)
-
-- **BAZ Superapp**: 
-- **BANCA DIGITAL**: Siguen con sus actividades habituales asignadas por su líder de gremio
-
-
 # VII. Contacto Wizeline DSA
 Si tienes alguna duda sobre el programa, logística, accesos, etc. por favor contacta al equipo de Wizeline DSA
 
