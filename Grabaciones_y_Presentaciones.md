@@ -10,11 +10,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Jueves 24 Mar](https://drive.google.com/file/d/1fxViuH3R69bJYC_VILYdyoYAVk1GxdTA/view?usp=sharing)
 
 # Semana 2
-- [Miércoles 29 Mar - Protocol Oriented Programming]()
+- [Miércoles 29 Mar - Protocol Oriented Programming](https://drive.google.com/file/d/1o9IxMBfsQcbjSqXb49CcLEu93jLWD7kO/view?usp=sharing)
 - 📺 [Grabación Miércoles 29 Mar]()
-- [Jueves 30 Mar - Generics]()
+- [Jueves 30 Mar - Generics](https://drive.google.com/file/d/1V0g1JDkAh_0vM51UZDqlyJlOrQIs6HSw/view?usp=sharing)
 - 📺 [Grabación Jueves 30 Mar]()
-- [Viernes 31 Mar - Concurrency]()
+- [Viernes 31 Mar - Concurrency](https://drive.google.com/file/d/1GbcXmxyZnIDjsG58cLoVHgGTqtQkMp6U/view?usp=sharing)
 - 📺 [Grabación Jueves 31 Mar]()
 
 # Semana 3
