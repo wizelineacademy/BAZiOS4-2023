@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="AVFoundationExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KED-Wj-Qer">
+                                <rect key="frame" x="162.66666666666666" y="353.66666666666669" width="68" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Audio"/>
+                                <connections>
+                                    <segue destination="Idr-Vs-dBA" kind="show" id="ACf-dQ-ngA"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="M3h-H1-QM8">
+                                <rect key="frame" x="136.66666666666666" y="421" width="119.99999999999997" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Foto y Video"/>
+                                <connections>
+                                    <segue destination="bgJ-Wk-eRp" kind="showDetail" id="hPr-mm-bOf"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="M3h-H1-QM8" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="WNm-dX-26s"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="centerY" secondItem="KED-Wj-Qer" secondAttribute="bottom" constant="50" id="ls1-JJ-YRj"/>
+                            <constraint firstItem="M3h-H1-QM8" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="siz-sL-gUD"/>
+                            <constraint firstItem="KED-Wj-Qer" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="woi-U7-Aat"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="79" y="-13"/>
+        </scene>
+        <!--Foto Video View Controller-->
+        <scene sceneID="GLP-he-ndd">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="bgJ-Wk-eRp" customClass="FotoVideoViewController" customModule="AVFoundationExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="fLe-0z-CB9">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tVe-dG-UDA">
+                                <rect key="frame" x="39.333333333333343" y="579.33333333333337" width="314.33333333333326" height="188.66666666666663"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="tVe-dG-UDA" secondAttribute="height" multiplier="5:3" id="ghE-YR-B4a"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jyM-jC-SHu">
+                                <rect key="frame" x="88" y="421" width="217" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Reproducir video en layer"/>
+                                <connections>
+                                    <action selector="btnPlayVideoLayer:" destination="bgJ-Wk-eRp" eventType="touchUpInside" id="wug-DG-2wl"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aNI-X3-ndd">
+                                <rect key="frame" x="82.333333333333329" y="353.66666666666669" width="228.66666666666669" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Mostrar reproductor nativo"/>
+                                <connections>
+                                    <action selector="btnPlayVideoNative:" destination="bgJ-Wk-eRp" eventType="touchUpInside" id="ebR-Z6-o3z"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="xKV-qO-WhS"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="xKV-qO-WhS" firstAttribute="centerY" secondItem="aNI-X3-ndd" secondAttribute="bottom" constant="50" id="6c3-C0-HZb"/>
+                            <constraint firstItem="jyM-jC-SHu" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="EGP-h9-qTH"/>
+                            <constraint firstItem="aNI-X3-ndd" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="Ggn-eb-uch"/>
+                            <constraint firstItem="jyM-jC-SHu" firstAttribute="centerY" secondItem="xKV-qO-WhS" secondAttribute="centerY" id="HK8-KC-2Ke"/>
+                            <constraint firstItem="xKV-qO-WhS" firstAttribute="bottom" secondItem="tVe-dG-UDA" secondAttribute="bottom" constant="50" id="UoD-Wb-SSg"/>
+                            <constraint firstItem="tVe-dG-UDA" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="ZlN-9N-xHq"/>
+                            <constraint firstItem="tVe-dG-UDA" firstAttribute="width" secondItem="xKV-qO-WhS" secondAttribute="width" multiplier="0.8" id="fUG-Ju-YUq"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="container" destination="tVe-dG-UDA" id="0ut-OR-JcQ"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ruu-SC-1hk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="943" y="325"/>
+        </scene>
+        <!--Audio View Controller-->
+        <scene sceneID="6ka-Jj-MAa">
+            <objects>
+                <viewController modalPresentationStyle="fullScreen" id="Idr-Vs-dBA" customClass="AudioViewController" customModule="AVFoundationExample" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="OfN-nh-brD">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k5I-Zc-MGA">
+                                <rect key="frame" x="99.666666666666686" y="353.66666666666669" width="194" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Reproducir audio local"/>
+                                <connections>
+                                    <action selector="btnPlayAudioButton:" destination="Idr-Vs-dBA" eventType="touchUpInside" id="o8h-Wl-0FC"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jLb-uW-YlI">
+                                <rect key="frame" x="115.66666666666669" y="421" width="162" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Pausar audio local"/>
+                                <connections>
+                                    <action selector="btnPauseAudioButton:" destination="Idr-Vs-dBA" eventType="touchUpInside" id="jpx-Vs-kp8"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lL3-qT-ZTA">
+                                <rect key="frame" x="125" y="637" width="150" height="35"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Iniciar grabación"/>
+                                <connections>
+                                    <action selector="toogleRecording" destination="Idr-Vs-dBA" eventType="touchUpInside" id="tWQ-6z-iz8"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="b2g-Qn-tP6"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="jLb-uW-YlI" firstAttribute="centerY" secondItem="b2g-Qn-tP6" secondAttribute="centerY" id="31E-XF-Yup"/>
+                            <constraint firstItem="jLb-uW-YlI" firstAttribute="centerX" secondItem="b2g-Qn-tP6" secondAttribute="centerX" id="MST-gU-17O"/>
+                            <constraint firstItem="b2g-Qn-tP6" firstAttribute="centerY" secondItem="k5I-Zc-MGA" secondAttribute="bottom" constant="50" id="NeE-vY-cSc"/>
+                            <constraint firstItem="k5I-Zc-MGA" firstAttribute="centerX" secondItem="b2g-Qn-tP6" secondAttribute="centerX" id="mFV-2a-WoE"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="FpW-67-fNf"/>
+                    <connections>
+                        <outlet property="buttonRecord" destination="lL3-qT-ZTA" id="7SZ-eV-1qE"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LGF-RE-VgU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="944" y="-363"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
