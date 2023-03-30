@@ -81,7 +81,7 @@ class AudioViewController: UIViewController {
     }
     
     func startRecording(){
-        guard audioRecorder == nil,  let recordURL = FileManager.getDocumentsDirectory(appendPath: "AudioExample.m4a") else { return }
+        guard let recordURL = FileManager.getDocumentsDirectory(appendPath: "AudioExample.mp4") else { return }
         let settings = [
             AVFormatIDKey: Int(kAudioFormatMPEG4AAC), /// El formato del audio
             AVSampleRateKey: 12000, /// Sample rate in Hertz
@@ -92,7 +92,6 @@ class AudioViewController: UIViewController {
             audioRecorder = try AVAudioRecorder(url: recordURL, settings: settings)
             audioRecorder?.delegate = self
             audioRecorder?.record()
-            buttonRecord.setTitle("Detener grabación", for: .normal)
         } catch let error {
             print(error)
         }

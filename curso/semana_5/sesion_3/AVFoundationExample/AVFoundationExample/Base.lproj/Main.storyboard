@@ -78,17 +78,31 @@
                                     <action selector="btnPlayVideoNative:" destination="bgJ-Wk-eRp" eventType="touchUpInside" id="ebR-Z6-o3z"/>
                                 </connections>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sZ3-rY-sQQ">
+                                <rect key="frame" x="20" y="109" width="154" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Empezar captura"/>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jtZ-gg-GW2">
+                                <rect key="frame" x="225" y="109" width="148" height="35"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="plain" title="Detener captura"/>
+                            </button>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="xKV-qO-WhS"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="sZ3-rY-sQQ" firstAttribute="top" secondItem="xKV-qO-WhS" secondAttribute="top" constant="50" id="6CW-iJ-tsT"/>
                             <constraint firstItem="xKV-qO-WhS" firstAttribute="centerY" secondItem="aNI-X3-ndd" secondAttribute="bottom" constant="50" id="6c3-C0-HZb"/>
                             <constraint firstItem="jyM-jC-SHu" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="EGP-h9-qTH"/>
                             <constraint firstItem="aNI-X3-ndd" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="Ggn-eb-uch"/>
                             <constraint firstItem="jyM-jC-SHu" firstAttribute="centerY" secondItem="xKV-qO-WhS" secondAttribute="centerY" id="HK8-KC-2Ke"/>
                             <constraint firstItem="xKV-qO-WhS" firstAttribute="bottom" secondItem="tVe-dG-UDA" secondAttribute="bottom" constant="50" id="UoD-Wb-SSg"/>
+                            <constraint firstItem="sZ3-rY-sQQ" firstAttribute="leading" secondItem="xKV-qO-WhS" secondAttribute="leading" constant="20" id="Zbm-yD-Lva"/>
                             <constraint firstItem="tVe-dG-UDA" firstAttribute="centerX" secondItem="xKV-qO-WhS" secondAttribute="centerX" id="ZlN-9N-xHq"/>
                             <constraint firstItem="tVe-dG-UDA" firstAttribute="width" secondItem="xKV-qO-WhS" secondAttribute="width" multiplier="0.8" id="fUG-Ju-YUq"/>
+                            <constraint firstItem="jtZ-gg-GW2" firstAttribute="top" secondItem="xKV-qO-WhS" secondAttribute="top" constant="50" id="k5V-1c-2z4"/>
+                            <constraint firstItem="xKV-qO-WhS" firstAttribute="trailing" secondItem="jtZ-gg-GW2" secondAttribute="trailing" constant="20" id="oXo-q9-BYA"/>
                         </constraints>
                     </view>
                     <connections>
