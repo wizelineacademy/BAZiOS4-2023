@@ -13,7 +13,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 29 Mar - Protocol Oriented Programming](https://drive.google.com/file/d/1o9IxMBfsQcbjSqXb49CcLEu93jLWD7kO/view?usp=sharing)
 - 📺 [Grabación Miércoles 29 Mar](https://drive.google.com/file/d/1_46vPp9GsqkVZct4p3b5JFErKFWqUf55/view?usp=sharing)
 - [Jueves 30 Mar - Generics](https://drive.google.com/file/d/1V0g1JDkAh_0vM51UZDqlyJlOrQIs6HSw/view?usp=sharing)
-- 📺 [Grabación Jueves 30 Mar]()
+- 📺 [Grabación Jueves 30 Mar](https://drive.google.com/file/d/147oEKlJkLB-7yyiOLSr9u8Jfya2XKfJG/view?usp=sharing)
 - [Viernes 31 Mar - Concurrency](https://drive.google.com/file/d/1GbcXmxyZnIDjsG58cLoVHgGTqtQkMp6U/view?usp=sharing)
 - 📺 [Grabación Jueves 31 Mar]()
 
