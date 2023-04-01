@@ -15,7 +15,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 30 Mar - Generics](https://drive.google.com/file/d/1V0g1JDkAh_0vM51UZDqlyJlOrQIs6HSw/view?usp=sharing)
 - 📺 [Grabación Jueves 30 Mar](https://drive.google.com/file/d/147oEKlJkLB-7yyiOLSr9u8Jfya2XKfJG/view?usp=sharing)
 - [Viernes 31 Mar - Concurrency](https://drive.google.com/file/d/1GbcXmxyZnIDjsG58cLoVHgGTqtQkMp6U/view?usp=sharing)
-- 📺 [Grabación Jueves 31 Mar]()
+- 📺 [Grabación Jueves 31 Mar](https://drive.google.com/file/d/1gF2DRh_0io8A3rHEaiFjQGa_oteg0Te2/view?usp=sharing)
 
 # Semana 3
 - [Miércoles 12 Abr - MVVM]()
