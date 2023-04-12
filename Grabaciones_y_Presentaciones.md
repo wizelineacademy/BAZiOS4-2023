@@ -18,11 +18,11 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Jueves 31 Mar](https://drive.google.com/file/d/1gF2DRh_0io8A3rHEaiFjQGa_oteg0Te2/view?usp=sharing)
 
 # Semana 3
-- [Miércoles 12 Abr - MVVM]()
+- [Miércoles 12 Abr - MVVM](https://drive.google.com/file/d/1XCm5V5X463yy2QIO8nWA8dCvRsLaItnX/view?usp=sharing)
 - 📺 [Grabación Miércoles 12 Abr]()
-- [Jueves 13 Abr - VIPER]()
+- [Jueves 13 Abr - VIPER](https://drive.google.com/file/d/1wck1PwTWU-DM4KV9DKnMda9EVX7UqEpr/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Abr]()
-- [Viernes 14 Abr - Clean Swift]()
+- [Viernes 14 Abr - Clean Swift](https://drive.google.com/file/d/1O1NCM_VMvUjDvCwkFRjWaXJ61fi8GMEU/view?usp=sharing)
 - 📺 [Grabación Jueves 14 Abr]()
 
 # Semana 4
