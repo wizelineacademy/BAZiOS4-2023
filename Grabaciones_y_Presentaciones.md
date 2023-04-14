@@ -21,7 +21,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 12 Abr - MVVM](https://drive.google.com/file/d/1XCm5V5X463yy2QIO8nWA8dCvRsLaItnX/view?usp=sharing)
 - 📺 [Grabación Miércoles 12 Abr](https://drive.google.com/file/d/16aWIUv14BBSrcBqGM_cOAC5ciozaXZMe/view?usp=sharing)
 - [Jueves 13 Abr - VIPER](https://drive.google.com/file/d/1wck1PwTWU-DM4KV9DKnMda9EVX7UqEpr/view?usp=sharing)
-- 📺 [Grabación Jueves 13 Abr]()
+- 📺 [Grabación Jueves 13 Abr](https://drive.google.com/file/d/1UtUZJICmev1nz60jgKXNgLe-SsTFj1YD/view?usp=sharing)
 - [Viernes 14 Abr - Clean Swift](https://drive.google.com/file/d/1O1NCM_VMvUjDvCwkFRjWaXJ61fi8GMEU/view?usp=sharing)
 - 📺 [Grabación Jueves 14 Abr]()
 
