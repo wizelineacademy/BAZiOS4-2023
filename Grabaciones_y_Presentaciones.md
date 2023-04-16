@@ -23,7 +23,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 13 Abr - VIPER](https://drive.google.com/file/d/1wck1PwTWU-DM4KV9DKnMda9EVX7UqEpr/view?usp=sharing)
 - 📺 [Grabación Jueves 13 Abr](https://drive.google.com/file/d/1UtUZJICmev1nz60jgKXNgLe-SsTFj1YD/view?usp=sharing)
 - [Viernes 14 Abr - Clean Swift](https://drive.google.com/file/d/1O1NCM_VMvUjDvCwkFRjWaXJ61fi8GMEU/view?usp=sharing)
-- 📺 [Grabación Jueves 14 Abr]()
+- 📺 [Grabación Jueves 14 Abr](https://drive.google.com/file/d/10IC_cpvem6JSyzBs1GDBVpHR07-Xa5Zo/view?usp=sharing)
 
 # Semana 4
 - [Miércoles 19 Mar - ]()
