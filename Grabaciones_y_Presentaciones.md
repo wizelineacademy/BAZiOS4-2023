@@ -29,7 +29,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 19 Mar - User Defaults](https://drive.google.com/file/d/1ZvPayNErQIjNe9NQiQ3fxfsldwjZKAcS/view?usp=sharing)
 - 📺 [Grabación Miércoles 19 Mar](https://drive.google.com/file/d/1KY0LjNmwXgo2QkbH0FGbrSjw17MSokMc/view?usp=sharing)
 - [Jueves 20 Mar - Keychain](https://drive.google.com/file/d/1uHUCupRyd4xR2goPdHYisje_8Bq57cah/view?usp=sharing)
-- 📺 [Grabación Jueves 20 Mar]()
+- 📺 [Grabación Jueves 20 Mar](https://drive.google.com/file/d/1p0NorxnUzozeI9XZ2cFYW7J1Zmr2mYsA/view?usp=sharing)
 - [Viernes 21 Mar - Persistance](https://drive.google.com/file/d/1UjugYVIc53bNT9-F54Fyl0cmSvZ_xaIb/view?usp=sharing)
 - 📺 [Grabación Jueves 21 Mar]()
 
