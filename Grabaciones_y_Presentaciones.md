@@ -31,7 +31,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 20 Mar - Keychain](https://drive.google.com/file/d/1uHUCupRyd4xR2goPdHYisje_8Bq57cah/view?usp=sharing)
 - 📺 [Grabación Jueves 20 Mar](https://drive.google.com/file/d/1p0NorxnUzozeI9XZ2cFYW7J1Zmr2mYsA/view?usp=sharing)
 - [Viernes 21 Mar - Persistance](https://drive.google.com/file/d/1UjugYVIc53bNT9-F54Fyl0cmSvZ_xaIb/view?usp=sharing)
-- 📺 [Grabación Jueves 21 Mar]()
+- 📺 [Grabación Jueves 21 Mar](https://drive.google.com/file/d/1d3EiLFyo75fuRAWjDmIFUbMsFhsRvF4n/view?usp=sharing)
 
 # Semana 5
 - [Miércoles 29 Abr - ]()
