@@ -36,7 +36,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 # Semana 5
 - [Miércoles 29 Abr - ](https://drive.google.com/file/d/1MStQKurBrTp_lbyy5WRGfDdPWCFB9Rf8/view?usp=share_link)
 - 📺 [Grabación Miércoles 29 Abr]()
-- [Jueves 30 Abr - ]()
+- [Jueves 30 Abr - AV Foundations](https://drive.google.com/file/d/1Jsb_E9z7yxVmN7n8-HQPllOwXxHNL-g9/view?usp=sharing)
 - 📺 [Grabación Jueves 30 Abr]()
 - [Viernes 31 Mar - ]()
 - 📺 [Grabación Jueves 31 Abr]()
