@@ -37,7 +37,7 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Miércoles 26 Abr - Core Location](https://drive.google.com/file/d/1MStQKurBrTp_lbyy5WRGfDdPWCFB9Rf8/view?usp=share_link)
 - 📺 [Grabación Miércoles 26 Abr](https://drive.google.com/file/d/1WBV-R7CIDghUNEI8rFH1crOPqddoQTee/view?usp=sharing)
 - [Jueves 27 Abr - AV Foundations](https://drive.google.com/file/d/1Jsb_E9z7yxVmN7n8-HQPllOwXxHNL-g9/view?usp=sharing)
-- 📺 [Grabación Jueves 27 Abr]()
+- 📺 [Grabación Jueves 27 Abr](https://drive.google.com/file/d/1mRUI87rpYsCXnI_WsJk8O14P1iOSNPhF/view?usp=sharing)
 - [Viernes 28 Mar - Map Kit](https://drive.google.com/file/d/1UqzcZVHsbruEzYpfRdQSAV1ZBdmOlfhL/view?usp=sharing)
 - 📺 [Grabación Jueves 28 Abr]()
 
