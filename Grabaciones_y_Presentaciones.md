@@ -42,10 +42,10 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - 📺 [Grabación Jueves 28 Abr](https://drive.google.com/file/d/1v5r0qKqqk13bX8Fy0qI79ZjMnzQ-NgIN/view?usp=sharing)
 
 # Semana 6
-- [Miércoles 3 May - ]()
+- [Miércoles 3 May - Factory Method, Builder](https://drive.google.com/file/d/1SoedhlHseofw4CYhCBJ_hpyEbpV3Y1xO/view?usp=sharing)
 - 📺 [Grabación Miércoles 3 May]()
-- [Jueves 4 May - ]()
+- [Jueves 4 May - Flyweigth, Adapter, Decorator, Facade](https://drive.google.com/file/d/1Q9jvzK0saCJkHkYlDpUHbZO3bNhene_N/view?usp=sharing)
 - 📺 [Grabación Jueves 4 May]()
-- [Viernes 5 May - ]()
+- [Viernes 5 May - Observer, Strategy](https://drive.google.com/file/d/1eQN7A7dZBFbcJ65wTHjEqPfiodIlAW0J/view?usp=sharing)
 - 📺 [Grabación Jueves 5 May]()
 
