@@ -47,5 +47,5 @@ Aquí encontrarás todas las grabaciones y presentaciones una vez finalizada cad
 - [Jueves 4 May - Flyweigth, Adapter, Decorator, Facade](https://drive.google.com/file/d/1Q9jvzK0saCJkHkYlDpUHbZO3bNhene_N/view?usp=sharing)
 - 📺 [Grabación Jueves 4 May](https://drive.google.com/file/d/1L7X6UqMQIZ2RqWDOLoUTRcfUXtjNxrNS/view?usp=sharing)
 - [Viernes 5 May - Observer, Strategy](https://drive.google.com/file/d/1eQN7A7dZBFbcJ65wTHjEqPfiodIlAW0J/view?usp=sharing)
-- 📺 [Grabación Jueves 5 May]()
+- 📺 [Grabación Jueves 5 May](https://drive.google.com/file/d/1H8vfwINN4g93_GT4L8bHZULX7Gpj2nmM/view?usp=sharing)
 
